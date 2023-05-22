@@ -25,7 +25,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>nmu.one.fomenko.LR1</mainClass>
+                            <mainClass>lab1.LR1</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

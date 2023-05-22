@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: nmu.one.fomenko.LR1
+Main-Class: lab1.LR1
 
